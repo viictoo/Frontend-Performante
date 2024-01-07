@@ -12,7 +12,7 @@ npm install ``
 [discord](https://discord.com/developers/docs/topics/permissions)
 Discord Developer Portal > log in to your account > "New Application" > type name and click "Create" > "bot" tab > "Add Bot" > copy and save the displayed token in a .env file
 
-*** load api key from env: testing on the console***
+***load api key from env: testing on the console***
 `` node --env-file .env ``
 
 ***Invite the  bot to a server:*** 
