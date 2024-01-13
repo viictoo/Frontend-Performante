@@ -1,0 +1,5 @@
+docker build -t portfolio .
+
+docker run -d -p 7001:3001  portfolio
+docker run -d -p 7001:3001  portfolio
+docker run -d -p 8080:3001  portfolio
